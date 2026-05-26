@@ -2,7 +2,6 @@
 Compare the anime between [AniList](https://anilist.co) users' lists.
 
 ## Dependencies:
-* [tkinter](https://docs.python.org/3/library/tkinter.html) 
 * [tkhtmlview](https://pypi.org/project/tkhtmlview/)
 
 ## Instructions
