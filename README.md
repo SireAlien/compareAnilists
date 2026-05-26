@@ -1,5 +1,5 @@
 # compareAnilists
-Compare the anime between anilist users' lists.
+Compare the anime between [AniList](anilist.co) users' lists.
 
 ## Dependencies:
 * [tkinter](https://docs.python.org/3/library/tkinter.html) 
