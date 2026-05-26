@@ -6,6 +6,8 @@ Compare the anime between anilist users' lists.
 * [tkhtmlview](https://pypi.org/project/tkhtmlview/)
 
 ## Instructions
+Launch ui.py.
+
 In the main menu, insert the number of users whose list you wanna compare, the language in which the titles will be displayed and press Enter.
 In the comparison menu, you can go back if you wish to change the number of participants.
 Insert the usernames of the participants in the blank entries, and press Compare.
